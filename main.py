@@ -9,6 +9,9 @@ def main():
   print("This is an addition")
   print("I am testing out the github desktop")
 
+def test():
+  print("This is a test to add another user")
+
 if __name__ == "__main__":
   main()
   
