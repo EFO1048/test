@@ -6,11 +6,11 @@ def main():
   y = 6
   a = 7
   z = x + a
-  print("This is an addition")
-  print("I am testing out the github desktop")
 
-def test():
-  print("This is a test to add another user")
+def function():
+  print("this is a loop")
+  for x in range(6):
+    print(x)
 
 if __name__ == "__main__":
   main()
